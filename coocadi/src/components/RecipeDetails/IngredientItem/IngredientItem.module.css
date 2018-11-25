@@ -1,0 +1,11 @@
+.comment {
+  font-size: smaller;
+}
+
+.amount {
+  color: rgb(0, 0, 110);
+}
+
+.amountValue {
+  font-weight: bold;
+}

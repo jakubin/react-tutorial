@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container .header {
+    flex: 50px;
+    background-color: darkslategray;
+    color: white;
+}
+
+.container .content {
+    flex: 1;
+    overflow-y: auto;
+}
